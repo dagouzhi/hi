@@ -24,13 +24,9 @@ export default class TemplatePage extends Component {
     return false;
   }
   render() {
-  	console.log(this.props);
-  	return (
-  		<h1>111</h1>
-	  );
   	const { actions, state } = this.props;
-  	const { testTemplate, testFetchTemplate } = actions.TestPage;
-  	const { globalModal, text, async } = state.get('TestPage').toJS();
+  	const { testTemplate, testFetchTemplate } = actions.TemplatePage;
+  	const { globalModal, text, async } = state.get('__template__').toJS();
     return (
 	    <div className="TemplatePage">
 		    <div className="search-result-list global-item-box">

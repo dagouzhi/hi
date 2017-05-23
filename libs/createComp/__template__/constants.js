@@ -1,5 +1,5 @@
 import yunleKey from 'yunle-key';
-const pageName = 'TestPage';
+const pageName = '__template__';
 
 export default yunleKey({
 	TEST_TEMPLSTE: null,

@@ -5,11 +5,11 @@ const getComponents = (nextState, callback) => {
 }
 export default [
 	{
-		path: '/__template__',
-		name: '__template__',
-		breadcrumbName: '模板页',
+		path: '/pm',
+		name: 'PmPage',
+		breadcrumbName: '产品',
 		_indexRoute: true,
 		getComponents,
 		childRoutes: [],
 	},
-];
+]

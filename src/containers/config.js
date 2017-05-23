@@ -1,9 +1,9 @@
 const config = [
 	{
 		// test页
-		root: 'TestPage',
+		root: 'PmPage',
 	},
-]
+];
 config.push({
 	root: 'NotFoundAuAPage',
 });

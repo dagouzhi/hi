@@ -1,7 +1,7 @@
 import { takeLatest } from 'redux-saga';
 import { fork, put, call } from 'redux-saga/effects';
 import TYPE from './constants';
-import api  from '../../api';
+import { login } from '../../api';
 
 const {
 	TEST_REQUESTED_TEMPLSTE,
@@ -11,7 +11,7 @@ const {
 
 function* callTestTemplste({ query }) {
 	try {
-		const result = yield call(api.test, query);
+		const result = yield call(login, query);
 		if (result.status !== 200 ) throw result;
 		yield put({ type: TEST_SUCCEEDED_TEMPLSTE, result });
 	} catch (err) {
