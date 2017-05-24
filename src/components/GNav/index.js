@@ -15,12 +15,12 @@ export default class GNav extends Component {
 	}
 	renderItems(items) {
 		return items.map((item, index) => {
-			const { pic, name } = item;
+			const { pic, url, name } = item;
 			return (
 				<Col key={index} className="GNav-row" span={4}>
 					<div className="GNav-box">
 						<div className="group-container">
-							<Link className="GNav-link" to="">
+							<Link className={ this.props.path === url ? 'GNav-link on' : 'GNav-link' } to={url}>
 								<div className="group-image">
 									<img src={pic} />
 								</div>

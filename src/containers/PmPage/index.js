@@ -11,8 +11,10 @@ export default class PmPage extends Component {
     __data__: fromJS({}),
   };
   render() {
-  	const { state } = this.props;
-  	const { nav = [], tools } = state.get('PmPage').toJS();
+  	const { state, route } = this.props;
+	  const { nav = [], tools } = state.get('app').toJS();
+	  const path = route.path.replace('/', '');
+  	const items = tools[path] || [];
     return (
 	    <div className="PmPage">
 		    <div className="PmPage-header">
@@ -22,9 +24,10 @@ export default class PmPage extends Component {
 			    <div className="box-wrap">
 				    <GNav
 					    items = {nav}
+					    path = {route.path}
 				    />
 			    </div>
-			    {this.returnTools(tools)}
+			    {this.returnTools(items)}
 		    </div>
 		    <div className="PmPage-footer">
 					<GFooter />
@@ -39,7 +42,7 @@ export default class PmPage extends Component {
 				  <h2 className="box-title"><strong>{item.title}</strong></h2>
 				  <div className="box-main">
 					  <ul className="items-wrap">
-						  {item.items.map((item, index) => {
+						  {item.list.map((item, index) => {
 						  	return (
 								  <li key={index} className="item-wrap">
 									  <h3 className="item-title">

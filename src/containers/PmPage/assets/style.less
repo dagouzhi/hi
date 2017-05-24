@@ -65,10 +65,17 @@
       margin-bottom: 6px;
       position: relative;
     }
+    a{
+      padding-left: 32px;
+      display: block;
+    }
     img{
+      display: block;
+      float: left;
       width: 32px;
       height: 32px;
       border-radius: 4px;
+      margin-left: -32px;
     }
     p{
       color: #525558;
@@ -82,12 +89,23 @@
       text-overflow: ellipsis;
       padding-left: 8px;
       padding-right: 8px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
       strong{
         display: block;
+        overflow: hidden;
+        text-overflow:ellipsis;
+        white-space: nowrap;
       }
       span{
+        width: 100%;
+        display: block;
         font-size: 12px;
         color: #b2b2b2;
+        overflow: hidden;
+        text-overflow:ellipsis;
+        white-space: nowrap;
       }
     }
   }
