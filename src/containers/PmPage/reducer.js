@@ -19,6 +19,51 @@ const initialState = fromJS({
 		onOk: null,
 		onCancel: null,
 	},
+	nav: [
+		{
+			pic: 'http://wulihub.pmdaniu.com/uploads/201704/25/15/0437qEtW6rUP.png',
+			name: '产品',
+		},
+		{
+			pic: 'http://wulihub.pmdaniu.com/uploads/201704/25/14/5458YNKdil58.png',
+			name: '设计',
+		},
+		{
+			pic: 'http://wulihub.pmdaniu.com/uploads/201704/25/15/0235bxO4L3yt.png',
+			name: '运营',
+		},
+		{
+			pic: 'http://wulihub.pmdaniu.com/uploads/201704/25/15/0333E9RHL6Gc.png',
+			name: '市场',
+		},
+		{
+			pic: 'http://wulihub.pmdaniu.com/uploads/201704/25/15/0355orxCR7Go.png',
+			name: '测试',
+		},
+		{
+			pic: 'http://wulihub.pmdaniu.com/uploads/201704/25/15/0909zkg1hiqD.png',
+			name: '程序员',
+		},
+	],
+	tools: [
+		{
+			title: '产品常用',
+			items: [
+				{
+					name: '原型工具',
+					info: 'Prototype',
+					list: [
+						{
+							pic: 'http://wulihub.pmdaniu.com/uploads/201704/27/15/3502V63IHiJt.png',
+							name: 'Axure',
+							info: '原型与交互｜论坛',
+							url: 'http://www.webppd.com/forum-28-1.html',
+						},
+					]
+				}
+			],
+		}
+	],
 });
 
 export default (state = initialState, action) => {
