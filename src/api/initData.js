@@ -55,31 +55,31 @@ export default {
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/15/3502V63IHiJt.png",
 									"name": "Axure",
 									"info": "原型与交互｜论坛",
-									"url": "http://www.wulihub.com/jump/1"
+									"url": "http://www.webppd.com/forum-28-1.html"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/15/3620l9a4sZzI.png",
 									"name": "Sketch",
 									"info": "官网｜仅mac可用",
-									"url": "http://www.wulihub.com/jump/19"
+									"url": "http://www.sketchcn.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/15/3715cGoKxwnO.png",
 									"name": "在线原型墨刀",
 									"info": "适合做手机原型",
-									"url": "http://www.wulihub.com/jump/20"
+									"url": "https://modao.cc/"
 								},
 								{
 									"pic": "http://www.wulihub.com/uploads/201705/03/13/3651UH2HudxF.png",
 									"name": "产品大牛",
 									"info": "原型托管与原型交流",
-									"url": "http://www.wulihub.com/jump/21"
+									"url": "http://www.pmdaniu.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/15/4001ghvXmfRJ.png",
 									"name": "xiaopiu",
 									"info": "在线app原型设计",
-									"url": "http://www.wulihub.com/jump/175"
+									"url": "http://www.xiaopiu.com/"
 								}
 							]
 						},
@@ -91,25 +91,25 @@ export default {
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/15/3917qnOHLfSs.png",
 									"name": "原型+产品文档",
 									"info": "文章",
-									"url": "http://www.wulihub.com/jump/2"
+									"url": "http://www.jianshu.com/p/2006f660d2b0"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/15/4326ARQaDEaD.png",
 									"name": "原型+prd原件",
 									"info": "百度网盘下载原件",
-									"url": "http://www.wulihub.com/jump/22"
+									"url": "https://pan.baidu.com/s/1sklssJr#list/path=%2F"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/15/4500H0lMoYKv.png",
 									"name": "word版prd文档",
 									"info": "文章",
-									"url": "http://www.wulihub.com/jump/23"
+									"url": "http://www.woshipm.com/discuss/119696.html"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/15/452573rdsKoK.png",
 									"name": "word版prd模版",
 									"info": "百度网盘下载",
-									"url": "http://www.wulihub.com/jump/24"
+									"url": "https://pan.baidu.com/s/1hrwzEsc#list/path=%2F"
 								}
 							]
 						},
@@ -121,25 +121,25 @@ export default {
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/15/39042kDvDzLq.png",
 									"name": "visio",
 									"info": "微软出品",
-									"url": "http://www.wulihub.com/jump/3"
+									"url": "http://www.xiazaiba.com/html/24837.html"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/1520pkWFG6ac.png",
 									"name": "ProcessOn",
 									"info": "在线画流程图",
-									"url": "http://www.wulihub.com/jump/25"
+									"url": "https://www.processon.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/15/4710HZNdFswT.png",
 									"name": "OmniGraffle",
 									"info": "仅mac可用",
-									"url": "http://www.wulihub.com/jump/26"
+									"url": "http://www.pc6.com/mac/111747.html"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/15/4757tOrGt8Nv.png",
 									"name": "亿图",
 									"info": "需付费方可使用",
-									"url": "http://www.wulihub.com/jump/27"
+									"url": "http://www.edrawsoft.cn/"
 								}
 							]
 						},
@@ -151,31 +151,31 @@ export default {
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/15/49123h3UpWE7.png",
 									"name": "MindManager",
 									"info": "好用的脑图工具",
-									"url": "http://www.wulihub.com/jump/4"
+									"url": "http://rj.baidu.com/soft/detail/39321.html?ald"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/15/49536Kj5POdK.png",
 									"name": "百度脑图",
 									"info": "在线脑图工具",
-									"url": "http://www.wulihub.com/jump/28"
+									"url": "http://naotu.baidu.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/2124nbYEgByh.png",
 									"name": "MindPin",
 									"info": "在线脑图工具",
-									"url": "http://www.wulihub.com/jump/29"
+									"url": "http://www.mindpin.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/16/11/5347mkPAmg6V.jpg",
 									"name": "XMind",
 									"info": "脑图软件",
-									"url": "http://www.wulihub.com/jump/30"
+									"url": "http://www.xmindchina.net/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/16/0000bP6uArbV.png",
 									"name": "幕布",
 									"info": "在线脑图工具",
-									"url": "http://www.wulihub.com/jump/176"
+									"url": "https://mubu.com/"
 								}
 							]
 						},
@@ -187,25 +187,25 @@ export default {
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/15/5423CeRZsUhf.png",
 									"name": "Trello",
 									"info": "在线团队协作",
-									"url": "http://www.wulihub.com/jump/5"
+									"url": "https://trello.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/2604Skq0fP5K.png",
 									"name": "WorkTile",
 									"info": "在线企业协作",
-									"url": "http://www.wulihub.com/jump/31"
+									"url": "https://worktile.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/2657DoJ6EuX9.png",
 									"name": "Teambition",
 									"info": "团队任务管理",
-									"url": "http://www.wulihub.com/jump/32"
+									"url": "https://www.teambition.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/2802k2oSrdTc.png",
 									"name": "Tower",
 									"info": "在线团队协作",
-									"url": "http://www.wulihub.com/jump/33"
+									"url": "https://tower.im/"
 								}
 							]
 						},
@@ -217,25 +217,25 @@ export default {
 									"pic": "http://www.pmdaniu.com/uploads/201608/12/14/2100VwCXvevW.png",
 									"name": "多格式转化",
 									"info": "各种格式在线转化",
-									"url": "http://www.wulihub.com/jump/6"
+									"url": "http://cn.office-converter.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/3122r8gmhe3q.png",
 									"name": "SmallPdf",
 									"info": "在线pdf转换",
-									"url": "http://www.wulihub.com/jump/34"
+									"url": "https://smallpdf.com/cn"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/32303KL9Iw3x.png",
 									"name": "格式工厂",
 									"info": "音视频格式转换",
-									"url": "http://www.wulihub.com/jump/35"
+									"url": "http://rj.baidu.com/soft/detail/13052.html?ald"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/3329YuxZwFaK.png",
 									"name": "PDF转换器",
 									"info": "需付费使用",
-									"url": "http://www.wulihub.com/jump/36"
+									"url": "http://www.pdfdo.com/"
 								}
 							]
 						}
@@ -252,97 +252,97 @@ export default {
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/16/0054crRW8mcA.png",
 									"name": "36氪",
 									"info": "创业与科技报道",
-									"url": "http://www.wulihub.com/jump/37"
+									"url": "http://36kr.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/16/0242D3Xm46br.png",
 									"name": "虎嗅",
 									"info": "深度商业资讯",
-									"url": "http://www.wulihub.com/jump/38"
+									"url": "https://www.huxiu.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/3917C357Cf2l.png",
 									"name": "知乎",
 									"info": "问答知识社区",
-									"url": "http://www.wulihub.com/jump/39"
+									"url": "https://www.zhihu.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/16/0407EErK33AN.png",
 									"name": "v2ex",
 									"info": "创意工作者社区",
-									"url": "http://www.wulihub.com/jump/40"
+									"url": "https://www.v2ex.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/4111hljS2ETK.png",
 									"name": "什么值得买",
 									"info": "剁手党ˋωˊ必备",
-									"url": "http://www.wulihub.com/jump/41"
+									"url": "http://www.smzdm.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/4218hZvbkk19.png",
 									"name": "PMCAFF",
 									"info": "PM问答社区",
-									"url": "http://www.wulihub.com/jump/42"
+									"url": "http://www.pmcaff.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/4312T9CbOPLP.png",
 									"name": "人人都是产品经理",
 									"info": "PM资讯与交流",
-									"url": "http://www.wulihub.com/jump/43"
+									"url": "http://www.woshipm.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/4402txbbrH65.png",
 									"name": "CNbeta",
 									"info": "中文科技资讯",
-									"url": "http://www.wulihub.com/jump/44"
+									"url": "http://www.cnbeta.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/4505CdZC77si.png",
 									"name": "创见Tech2ipo",
 									"info": "科技资讯与故事",
-									"url": "http://www.wulihub.com/jump/45"
+									"url": "http://tech2ipo.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/4559QnsENf7B.png",
 									"name": "爱范儿",
 									"info": "消费科技媒体",
-									"url": "http://www.wulihub.com/jump/46"
+									"url": "http://www.ifanr.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/4654yZRQiWc4.png",
 									"name": "PingWest品玩",
 									"info": "数字文化内容",
-									"url": "http://www.wulihub.com/jump/47"
+									"url": "http://www.pingwest.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/4837fkma6xxg.png",
 									"name": "极客公园",
 									"info": "科技观察报道",
-									"url": "http://www.wulihub.com/jump/49"
+									"url": "http://www.geekpark.net/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/4927ePDHjEWM.png",
 									"name": "雷锋网",
 									"info": "读懂智能与未来",
-									"url": "http://www.wulihub.com/jump/50"
+									"url": "https://www.leiphone.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/5052CeMNZloj.png",
 									"name": "创业邦",
 									"info": "创业服务与报道",
-									"url": "http://www.wulihub.com/jump/51"
+									"url": "http://www.cyzone.cn/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/31/18/1241zFfGRDVj.png",
 									"name": "产品100",
 									"info": "PM资讯阅读",
-									"url": "http://www.wulihub.com/jump/52"
+									"url": "http://www.chanpin100.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/16/0546OXunYG60.png",
 									"name": "超级产品经理",
 									"info": "PM内容阅读",
-									"url": "http://www.wulihub.com/jump/177"
+									"url": "https://www.imspm.com/"
 								}
 							]
 						},
@@ -354,31 +354,31 @@ export default {
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/5218lxgmoLeZ.png",
 									"name": "亿邦动力",
 									"info": "电商新闻门户",
-									"url": "http://www.wulihub.com/jump/53"
+									"url": "http://www.ebrun.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/5306cvPPu0BZ.png",
 									"name": "i天下网商",
 									"info": "电商资讯",
-									"url": "http://www.wulihub.com/jump/54"
+									"url": "http://www.iwshang.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/11/5348stpBxAvc.png",
 									"name": "亿欧网",
 									"info": "产业创新与服务",
-									"url": "http://www.wulihub.com/jump/55"
+									"url": "http://www.iyiou.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/16/1711btTANQFC.png",
 									"name": "派代网",
 									"info": "电商学习社区",
-									"url": "http://www.wulihub.com/jump/178"
+									"url": "http://www.paidai.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/16/1919XxdzPG46.png",
 									"name": "电商在线",
 									"info": "电商资讯媒体",
-									"url": "http://www.wulihub.com/jump/179"
+									"url": "http://www.imaijia.com/"
 								}
 							]
 						}
@@ -395,43 +395,43 @@ export default {
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/12/0407oDCcRisQ.png",
 									"name": "Reeoo",
 									"info": "优秀设计作品参考",
-									"url": "http://www.wulihub.com/jump/57"
+									"url": "http://reeoo.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/16/2307RoShnnFG.png",
 									"name": "UI中国",
 									"info": "设计作品展示学习",
-									"url": "http://www.wulihub.com/jump/58"
+									"url": "http://www.ui.cn/"
 								},
 								{
 									"pic": "http://www.wulihub.com/uploads/201705/08/17/17550eEP7iB5.png",
 									"name": "爱果果",
 									"info": "h5案例",
-									"url": "http://www.wulihub.com/jump/60"
+									"url": "http://www.iguoguo.net/html5"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/16/2221l2jOq7Hq.png",
 									"name": "dribbble",
 									"info": "设计作品参考分享",
-									"url": "http://www.wulihub.com/jump/61"
+									"url": "https://dribbble.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/16/2415FBlYkPpY.png",
 									"name": "花瓣网",
 									"info": "找图片素材与作品",
-									"url": "http://www.wulihub.com/jump/62"
+									"url": "http://huaban.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/16/2656MPH0BtYq.jpg",
 									"name": "站酷",
 									"info": "设计师交流平台",
-									"url": "http://www.wulihub.com/jump/63"
+									"url": "http://www.zcool.com.cn/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/16/2522sCmWeivA.png",
 									"name": "Lapa",
 									"info": "官网与落地页设计",
-									"url": "http://www.wulihub.com/jump/180"
+									"url": "http://lapa.ninja/"
 								}
 							]
 						},
@@ -443,31 +443,31 @@ export default {
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/12/1250cA1Zc76a.png",
 									"name": "阿里矢量图标库",
 									"info": "矢量图标搜索分享",
-									"url": "http://www.wulihub.com/jump/65"
+									"url": "http://www.iconfont.cn/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/12/1330Ulw1bagE.png",
 									"name": "Easyicon",
 									"info": "图标搜索下载",
-									"url": "http://www.wulihub.com/jump/66"
+									"url": "http://www.easyicon.net/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/12/1412mfaKajNx.png",
 									"name": "Findicons",
 									"info": "图标搜索",
-									"url": "http://www.wulihub.com/jump/67"
+									"url": "http://findicons.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/12/1625FU4wOA4h.png",
 									"name": "iconPNG",
 									"info": "图标搜索",
-									"url": "http://www.wulihub.com/jump/68"
+									"url": "http://www.iconpng.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/16/3826xthgn4qG.png",
 									"name": "iconfinder",
 									"info": "图标搜索",
-									"url": "http://www.wulihub.com/jump/182"
+									"url": "https://www.iconfinder.com/"
 								}
 							]
 						},
@@ -479,31 +479,31 @@ export default {
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/12/1720nR3LB993.png",
 									"name": "求字体查询字体与下载",
 									"info": " 查询字体与下载",
-									"url": "http://www.wulihub.com/jump/69"
+									"url": "http://www.qiuziti.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/12/1816hRN5EbgO.png",
 									"name": "字体宝库",
 									"info": "字体下载",
-									"url": "http://www.wulihub.com/jump/70"
+									"url": "http://font.knowsky.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/12/1849KrmBbvul.png",
 									"name": "站长字体",
 									"info": "字体下载",
-									"url": "http://www.wulihub.com/jump/71"
+									"url": "http://font.chinaz.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/16/5305EY6C5107.png",
 									"name": "字体之家",
 									"info": "字体下载",
-									"url": "http://www.wulihub.com/jump/72"
+									"url": "http://www.17ziti.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/16/5458TmrCgwoJ.png",
 									"name": "有字库",
 									"info": "网络字体服务",
-									"url": "http://www.wulihub.com/jump/183"
+									"url": "https://www.youziku.com/"
 								}
 							]
 						},
@@ -515,31 +515,31 @@ export default {
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/12/2037hyUJsG4C.png",
 									"name": "逼格PPT",
 									"info": "精品PPT模版",
-									"url": "http://www.wulihub.com/jump/73"
+									"url": "http://www.tretars.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/12/2116bY0f1Vl0.png",
 									"name": "优品PPT",
 									"info": "海量PPT模版",
-									"url": "http://www.wulihub.com/jump/74"
+									"url": "http://www.ypppt.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/12/2146cHxMGgmo.png",
 									"name": "站长PPT",
 									"info": "海量PPT模版",
-									"url": "http://www.wulihub.com/jump/75"
+									"url": "http://sc.chinaz.com/ppt/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/17/2217irsCXqsa.png",
 									"name": "OfficePlus",
 									"info": "微软ppt模版站",
-									"url": "http://www.wulihub.com/jump/184"
+									"url": "http://office.mmais.com.cn/Template/Home.shtml"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/17/2528483nm59x.png",
 									"name": "演届网",
 									"info": "高质ppt模版",
-									"url": "http://www.wulihub.com/jump/185"
+									"url": "http://www.yanj.cn/"
 								}
 							]
 						}
@@ -556,25 +556,25 @@ export default {
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/17/3718cbzxlUqF.png",
 									"name": "百度统计",
 									"info": "app与网站统计",
-									"url": "http://www.wulihub.com/jump/77"
+									"url": "https://tongji.baidu.com/web/welcome/login"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/2320Yjio7eHJ.png",
 									"name": "友盟",
 									"info": "app数据统计",
-									"url": "http://www.wulihub.com/jump/78"
+									"url": "http://www.umeng.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/17/3413mDsigz1u.png",
 									"name": "诸葛io",
 									"info": "精细化运营数据统计",
-									"url": "http://www.wulihub.com/jump/79"
+									"url": "https://zhugeio.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/17/3305fjqOfKET.png",
 									"name": "GrowingIO",
 									"info": "无埋点行为统计",
-									"url": "http://www.wulihub.com/jump/80"
+									"url": "https://www.growingio.com/"
 								}
 							]
 						},
@@ -586,25 +586,25 @@ export default {
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/17/3730HtwiFGLH.png",
 									"name": "百度指数",
 									"info": "查询热词",
-									"url": "http://www.wulihub.com/jump/81"
+									"url": "http://index.baidu.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/17/3917JOdfgROi.png",
 									"name": "友盟指数",
 									"info": "移动端趋势指数",
-									"url": "http://www.wulihub.com/jump/82"
+									"url": "http://www.umindex.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/28192CrHWlZz.png",
 									"name": "360好搜指数",
 									"info": "热词指数查询",
-									"url": "http://www.wulihub.com/jump/83"
+									"url": "http://index.so.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/31099PypLde0.jpg",
 									"name": "阿里指数",
 									"info": "阿里关键词查询",
-									"url": "http://www.wulihub.com/jump/84"
+									"url": "https://index.1688.com/"
 								}
 							]
 						},
@@ -616,25 +616,25 @@ export default {
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/3201kXQRiXAw.png",
 									"name": "SEO查询",
 									"info": "网站SEO情况查询",
-									"url": "http://www.wulihub.com/jump/85"
+									"url": "http://seo.chinaz.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/3246qgO3z1jI.png",
 									"name": "SEOwhy",
 									"info": "SEO资讯与交流",
-									"url": "http://www.wulihub.com/jump/86"
+									"url": "http://ask.seowhy.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/3405WKCIGwRs.png",
 									"name": "学SEO",
 									"info": "SEO培训",
-									"url": "http://www.wulihub.com/jump/87"
+									"url": "http://www.xueseo.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/3445yWsO8hIR.png",
 									"name": "SEO研究中心",
 									"info": "SEO技术支持",
-									"url": "http://www.wulihub.com/jump/88"
+									"url": "http://bbs.moonseo.cn/"
 								}
 							]
 						},
@@ -646,31 +646,31 @@ export default {
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/3525SH6EUxNx.png",
 									"name": "网站流量查询",
 									"info": "网站排名查询",
-									"url": "http://www.wulihub.com/jump/89"
+									"url": "http://www.alexa.cn/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/3609hwfnmMeV.png",
 									"name": "APPAnnie",
 									"info": "app应用情况分析",
-									"url": "http://www.wulihub.com/jump/90"
+									"url": "https://www.appannie.com/cn/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/3657r6pedtsq.png",
 									"name": "Testin",
 									"info": "app云端测试",
-									"url": "http://www.wulihub.com/jump/91"
+									"url": "http://www.testin.cn/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/3855IpjJIZWK.jpg",
 									"name": "蒲公英",
 									"info": "应用内测与云测",
-									"url": "http://www.wulihub.com/jump/92"
+									"url": "https://www.pgyer.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/17/4921FcMSxW08.png",
 									"name": "爱站",
 									"info": "网站综合查询",
-									"url": "http://www.wulihub.com/jump/186"
+									"url": "http://www.aizhan.com/"
 								}
 							]
 						}
@@ -687,31 +687,31 @@ export default {
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/4134SBiDezYy.png",
 									"name": "个推",
 									"info": "app消息推送",
-									"url": "http://www.wulihub.com/jump/93"
+									"url": "http://www.getui.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/4220Dd2E7YnC.png",
 									"name": "极光推送",
 									"info": "app消息推送",
-									"url": "http://www.wulihub.com/jump/94"
+									"url": "https://www.jiguang.cn/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/4309JzC5Pp9j.png",
 									"name": "百度推送",
 									"info": "app消息推送",
-									"url": "http://www.wulihub.com/jump/95"
+									"url": "http://push.baidu.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/17/5420g6pW2mj4.png",
 									"name": "腾讯信鸽",
 									"info": "app消息推送",
-									"url": "http://www.wulihub.com/jump/96"
+									"url": "https://www.qcloud.com/product/XGPush"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/17/5638vbSyN3Q3.png",
 									"name": "阿里推送",
 									"info": "app消息推送",
-									"url": "http://www.wulihub.com/jump/187"
+									"url": "https://www.aliyun.com/product/cps"
 								}
 							]
 						},
@@ -723,25 +723,25 @@ export default {
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/4446MEsvfO5R.png",
 									"name": "融云",
 									"info": "IM与直播组件",
-									"url": "http://www.wulihub.com/jump/97"
+									"url": "http://www.rongcloud.cn/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/45527QpKrYHB.png",
 									"name": "环信",
 									"info": "IM组件",
-									"url": "http://www.wulihub.com/jump/98"
+									"url": "http://www.easemob.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/46456HmsRL77.png",
 									"name": "容联云",
 									"info": "IM组件",
-									"url": "http://www.wulihub.com/jump/99"
+									"url": "http://www.yuntongxun.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/18/0303xKxDtVAs.png",
 									"name": "网易云信",
 									"info": "IM组件",
-									"url": "http://www.wulihub.com/jump/188"
+									"url": "http://netease.im/"
 								}
 							]
 						},
@@ -752,50 +752,50 @@ export default {
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/4803ZrUU9HU4.png",
 									"name": "兑吧",
-									"info": " app积分商城组件",
-									"url": "http://www.wulihub.com/jump/101"
+									"info": "app积分商城组件",
+									"url": "http://www.duiba.com.cn/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/30/16/3914320rFt6y.png",
 									"name": "表情云",
 									"info": "app表情商店组件",
-									"url": "http://www.wulihub.com/jump/103"
+									"url": "http://www.biaoqingmm.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/5045fBB4JAJr.png",
 									"name": "Ping++",
 									"info": "支付聚合",
-									"url": "http://www.wulihub.com/jump/104"
+									"url": "https://www.pingxx.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/31/17/29407aqk0oO3.jpg",
 									"name": "活动盒子",
 									"info": "活动抽奖H5",
-									"url": "http://www.wulihub.com/jump/170"
+									"url": "http://www.huodonghezi.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/18/0817p4hUyEh1.png",
 									"name": "上线了",
 									"info": "几分钟建站",
-									"url": "http://www.wulihub.com/jump/189"
+									"url": "https://www.sxl.cn/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/18/1124HCXzqTdD.png",
 									"name": "极验证",
 									"info": "云端滑动验证组件",
-									"url": "http://www.wulihub.com/jump/190"
+									"url": "http://www.geetest.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/18/1209kGjgFr7r.png",
 									"name": "SubMail",
 									"info": "邮件营销EDM",
-									"url": "http://www.wulihub.com/jump/191"
+									"url": "https://www.mysubmail.com/"
 								},
 								{
 									"pic": "http://www.wulihub.com/uploads/201705/03/13/2755hbpaIkOC.png",
 									"name": "七牛",
 									"info": "对象存储与流媒体",
-									"url": "http://www.wulihub.com/jump/345"
+									"url": "https://www.qiniu.com/"
 								}
 							]
 						}
@@ -812,25 +812,25 @@ export default {
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/53324ZKsASna.png",
 									"name": "IT橘子",
 									"info": "融资与公司信息",
-									"url": "http://www.wulihub.com/jump/105"
+									"url": "https://www.itjuzi.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/18/15186HVqf1OD.png",
 									"name": "36氪创投助手",
 									"info": "36氪旗下创投平台",
-									"url": "http://www.wulihub.com/jump/106"
+									"url": "https://rong.36kr.com/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/18/1639D8yOAfNV.png",
 									"name": "创投圈",
 									"info": "找投资或项目",
-									"url": "http://www.wulihub.com/jump/107"
+									"url": "https://www.vc.cn/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/27/18/1806dfXiofpC.png",
 									"name": "蜂鸟数据",
 									"info": "信息与数据挖掘",
-									"url": "http://www.wulihub.com/jump/192"
+									"url": "http://fengniaodata.com/"
 								}
 							]
 						},
@@ -842,31 +842,31 @@ export default {
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/5733GVIYmxVq.png",
 									"name": "创新工场",
 									"info": "有名的创业孵化器",
-									"url": "http://www.wulihub.com/jump/109"
+									"url": "http://www.chuangxin.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/5805iOBKQFgx.png",
 									"name": "天使湾",
 									"info": "中国的YC",
-									"url": "http://www.wulihub.com/jump/110"
+									"url": "http://tisiwi.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/13/5839OC4euhsh.png",
 									"name": "3W咖啡",
 									"info": "孵化器",
-									"url": "http://www.wulihub.com/jump/111"
+									"url": "http://www.3wcoffee.com/"
 								},
 								{
 									"pic": "http://www.pmdaniu.com/uploads/201608/09/14/0218YWKlcnGf.jpg",
 									"name": "氪空间",
 									"info": "36氪旗下孵化器",
-									"url": "http://www.wulihub.com/jump/112"
+									"url": "http://krspace.cn/"
 								},
 								{
 									"pic": "http://wulihub.pmdaniu.com/uploads/201704/28/22/2523GzvVgvTR.png",
 									"name": "demo++",
-									"info": "千万想法不如demo",
-									"url": "http://www.wulihub.com/jump/193"
+									"info": "千万想法不如个demo",
+									"url": "http://www.1demo.com/"
 								}
 							]
 						}
