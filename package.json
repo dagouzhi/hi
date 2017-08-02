@@ -1,8 +1,9 @@
 {
+  "version": "0.5.1",
   "private": true,
   "scripts": {
-    "start": "roadhog server",
-    "build": "roadhog build",
+    "start": "roadhog server --BUILD_ENV=develop",
+    "build": "roadhog build --BUILD_ENV=production",
     "lint": "eslint --ext .js src test",
     "precommit": "npm run lint"
   },

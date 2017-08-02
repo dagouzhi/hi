@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './assets/style.less';
+import styles from './GFooter.less';
 
 export default class GFooter extends Component {
 	render() {
@@ -10,8 +10,8 @@ export default class GFooter extends Component {
 				</div>
 				<div className="GFooter-r">
 				</div>
-				<div className="GFooter-center">
-
+				<div className={styles.center}>
+          VERSION: {__VERSION__}
 				</div>
 			</div>
 		);
