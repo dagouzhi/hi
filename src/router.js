@@ -2,7 +2,7 @@ import React from 'react';
 import { Router, Route } from 'dva/router';
 import Home from './routes/Home';
 
-import NotFound from "./routes/NotFound";
+import NotFound from './routes/NotFound';
 
 function RouterConfig({ history }) {
   return (
