@@ -1,5 +1,6 @@
 import React from 'react';
 import { connect } from 'dva';
+import { Row, Col } from 'antd';
 import styles from './Home.less';
 
 import GHeader from '../../components/GHeader/index';
@@ -7,19 +8,18 @@ import GFooter from '../../components/GFooter/index';
 import GNav from '../../components/GNav/index';
 
 class Home extends React.Component {
-  state = {};
   render() {
     const { init = {}, route = {} } = this.props;
-    const { nav = [], tools } = init;
+    const { nav = [], tools = [] } = init;
     const path = route.path.replace('/', '');
     const items = tools[path] || [];
     return (
-      <div className="PmPage">
-        <div className="PmPage-header">
+      <div className={styles.PmPage}>
+        <div className={styles['PmPage-header']}>
           <GHeader />
         </div>
-        <div className="PmPage-body">
-          <div className="box-wrap">
+        <div className={styles['PmPage-body']}>
+          <div className={styles['box-wrap']}>
             <GNav
               items = {nav}
               path = {route.path}
@@ -27,7 +27,7 @@ class Home extends React.Component {
           </div>
           {this.returnTools(items)}
         </div>
-        <div className="PmPage-footer">
+        <div className={styles['PmPage-footer']}>
           <GFooter />
         </div>
       </div>
@@ -36,19 +36,19 @@ class Home extends React.Component {
   returnTools = (tools = []) => {
     return tools.map((item, index) => {
       return (
-        <div key={index} className="box-wrap">
-          <h2 className="box-title"><strong>{item.title}</strong></h2>
-          <div className="box-main">
-            <ul className="items-wrap">
+        <div key={index} className={styles["box-wrap"]}>
+          <h2 className={styles["box-title"]}><strong>{item.title}</strong></h2>
+          <div className={styles["box-main"]}>
+            <ul className={styles["items-wrap"]}>
               {item.list.map((item, index) => {
                 return (
-                  <li key={index} className="item-wrap">
-                    <h3 className="item-title">
+                  <li key={index} className={styles["item-wrap"]}>
+                    <h3 className={styles["item-title"]}>
                       <strong>{item.name}</strong>
                       <span>{item.info}</span>
                     </h3>
                     <Row>
-                      <ul className="tools-items">
+                      <ul className={styles["tools-items"]}>
                         {this.returnItems(item.list)}
                       </ul>
                     </Row>
@@ -64,7 +64,7 @@ class Home extends React.Component {
   returnItems = (items = []) => {
     return items.map((item, index) => {
       return (
-        <li key={index} className="tools-item">
+        <li key={index} className={styles["tools-item"]}>
           <a href={item.url} target="_blank">
             <img src={item.pic} title="" />
             <p>
@@ -79,6 +79,11 @@ class Home extends React.Component {
 }
 
 Home.propTypes = {
+
 };
 
-export default connect()(Home);
+function mapStateToProps(state) {
+  return state
+}
+
+export default connect(mapStateToProps)(Home);

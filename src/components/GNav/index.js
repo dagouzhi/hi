@@ -1,12 +1,13 @@
 import React, { Component } from 'react';
-import './assets/style.less';
+import styles from './GNav.less';
+import classNames from 'classnames';
 import { Row, Col } from 'antd';
 import { Link } from 'react-router';
 
 export default class GNav extends Component {
 	render() {
 		return (
-			<div className="GNav-wrap">
+			<div className={styles["GNav-wrap"]}>
 				<Row gutter={16}>
 					{this.renderItems(this.props.items)}
 				</Row>
@@ -17,11 +18,11 @@ export default class GNav extends Component {
 		return items.map((item, index) => {
 			const { pic, url, name } = item;
 			return (
-				<Col key={index} className="GNav-row" span={4}>
-					<div className="GNav-box">
-						<div className="group-container">
-							<Link className={ this.props.path === url ? 'GNav-link on' : 'GNav-link' } to={url}>
-								<div className="group-image">
+				<Col key={index} className={styles["GNav-row"]} span={4}>
+					<div className={styles["GNav-box"]}>
+						<div className={styles["group-container"]}>
+							<Link className={ classNames(styles['GNav-link'], this.props.path === url ? styles.on: null ) } to={url}>
+								<div className={styles["group-image"]}>
 									<img src={pic} />
 								</div>
 								{name}
