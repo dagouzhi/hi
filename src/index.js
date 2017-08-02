@@ -1,25 +1,19 @@
-/* global someFunction document:true */
-import 'babel-polyfill';
-import ReactDOM from 'react-dom';
-import React from 'react';
-import Root from './root';
-import './index.html';
+import dva from 'dva';
+import './index.css';
 
-ReactDOM.render(
-  <Root />,
-  document.getElementById('root'),
-  () => {
-    let index = 1;
-    const time = setInterval(() => {
-      const loading = document.getElementById('global-loading-wrap');
-      if (!loading) return;
-      if (index >= 0) {
-        index -= 0.1;
-        loading.style.opacity = index;
-      } else {
-        clearTimeout(time);
-        loading.style.display = 'none';
-      }
-    }, 100);
-  },
-);
+// 1. Initialize
+const app = dva();
+
+app.model(require("./models/init"));
+
+// 2. Plugins
+// app.use({});
+
+// 3. Model
+// app.model(require('./models/example'));
+
+// 4. Router
+app.router(require('./router'));
+
+// 5. Start
+app.start('#root');
