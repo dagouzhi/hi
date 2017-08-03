@@ -7,10 +7,10 @@ import styles from './GNav.less';
 
 export default class GNav extends Component {
   renderItems(items) {
-    return items.map((item, index) => {
+    return items.map((item, i) => {
       const { pic = '', url, name } = item;
       return (
-        <Col key={index} span={4}>
+        <Col key={`item-${i}`} span={4}>
           <div className={styles['GNav-box']}>
             <div className={styles['group-container']}>
               <Link className={classNames(styles['GNav-link'], this.props.path === url ? styles.on : null)} to={url}>

@@ -52,7 +52,7 @@ class Home extends React.Component {
     });
   };
   open = (url) => {
-    window.open = url;
+    window.open(url);
   };
   render() {
     const { init = {}, route = {} } = this.props;

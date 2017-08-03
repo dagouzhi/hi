@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
+import React from 'react';
 import styles from './GFooter.less';
 
-export default class GFooter extends Component {
+export default class GFooter extends React.Component {
   render() {
     return (
       <div className="GFooter-wrap">
