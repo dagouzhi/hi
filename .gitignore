@@ -8,6 +8,5 @@
 
 # misc
 .DS_Store
-.package-lock.json
 .idea
 npm-debug.log*
