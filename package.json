@@ -2,6 +2,7 @@
   "version": "0.5.2",
   "private": true,
   "scripts": {
+    "pm2Start": "pm2 start process.json  --no-daemon",
     "start": "roadhog server --BUILD_ENV=develop",
     "build": "roadhog build --BUILD_ENV=production",
     "lint": "eslint --ext .js ",
@@ -15,6 +16,7 @@
     "babel-runtime": "^6.9.2",
     "classnames": "^2.2.5",
     "dva": "^1.2.1",
+    "pm2": "^2.6.1",
     "react": "^15.4.0",
     "react-dom": "^15.4.0"
   },
