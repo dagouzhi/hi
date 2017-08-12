@@ -1,11 +1,26 @@
 import dva from 'dva';
-import { browserHistory } from 'dva/router';
+import router from './router';
+import { browserHistory, createMemoryHistory } from 'dva/router';
+
 import './index.css';
 
 // 1. Initialize
-const app = dva({
-  history: browserHistory,
-});
+let app;
+try {
+  if (window) {
+    app = dva({
+      history: browserHistory,
+    });
+  } else {
+    app = dva({
+      history: createMemoryHistory(),
+    });
+  }
+} catch (e) {
+  app = dva({
+    history: createMemoryHistory(),
+  });
+}
 
 app.model(require('./models/init'));
 
@@ -16,7 +31,15 @@ app.model(require('./models/init'));
 // app.model(require('./models/example'));
 
 // 4. Router
-app.router(require('./router'));
-
+app.router(router);
 // 5. Start
-app.start('#root');
+try {
+  if (window) {
+    app.start('#root');
+  }
+} catch (e) {
+
+}
+
+export default { app, router };
+

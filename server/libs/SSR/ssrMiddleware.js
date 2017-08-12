@@ -2,12 +2,12 @@ import React, { createElement } from 'react';
 import { match, RouterContext, createMemoryHistory } from 'dva/router';
 import { renderToString } from 'react-dom/server';
 import { Provider } from 'react-redux';
-import { routes } from '../../../src/router';
-import createApp from '../../../src/index';
+import { app, routes } from '../../../src/index';
+// import { app, routes } from '../../../dist/index.054df2d00d556e854234';
+console.log(app, routes);
 let App;
 try {
-  console.log(createApp);
-  App = createApp.start(null);
+  App = app.start(null);
 } catch (e) {
   console.log(e);
 }

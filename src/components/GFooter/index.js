@@ -3,12 +3,18 @@ import styles from './GFooter.less';
 
 export default class GFooter extends React.Component {
   render() {
+    let version = '';
+    try {
+      version = __VERSION__ || ''
+    } catch (e) {
+
+    }
     return (
       <div className="GFooter-wrap">
         <div className="GFooter-l" />
         <div className="GFooter-r" />
         <div className={styles.center}>
-          <div>工具箱 © 2017-2018 VERSION: {__VERSION__}</div>
+          <div>工具箱 © 2017-2018 VERSION: {version}</div>
           <p>
             本网站为非赢利性站点，本网站所有内容均来源于<a href="http://wulihub.pmdaniu.com/">WuliHub</a>，本站不会保存、复制或传播，也不对本站上的任何内容负法律责任。
           </p>

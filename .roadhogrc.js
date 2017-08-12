@@ -31,7 +31,9 @@ console.log('------------------------------------------');
 console.log('------------------------------------------');
 
 export default {
-  "entry": "src/index.js",
+  "entry": [
+    "src/index.js",
+  ],
   "hash": true,
   "define": {
     "__ENV__": __ENV__,
