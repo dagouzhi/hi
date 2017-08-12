@@ -1229,7 +1229,7 @@ export default {
                   pic: 'http://wulihub.pmdaniu.com/uploads/201705/02/12/0302Soy8Dvi4.png',
                   name: '昵图网',
                   info: '设计资源与素材',
-                  url: 'http://www.nipic.com/index.html',
+                  url: 'http://www.nipic.com/index.ejs',
                 },
                 {
                   pic: 'http://wulihub.pmdaniu.com/uploads/201705/02/12/0424mc3XBJ7u.png',
@@ -1432,7 +1432,7 @@ export default {
                   pic: 'http://wulihub.pmdaniu.com/uploads/201705/02/13/0652kqwwUWxM.png',
                   name: '黄金比例计算器',
                   info: '在线计算黄金比例',
-                  url: 'http://www.shejidaren.com/examples/tools/golden-ratio/index.html',
+                  url: 'http://www.shejidaren.com/examples/tools/golden-ratio/index.ejs',
                 },
                 {
                   pic: 'http://wulihub.pmdaniu.com/uploads/201705/02/13/08343867Oa1T.png',
@@ -2891,7 +2891,7 @@ export default {
                   pic: 'http://www.wulihub.com/uploads/201705/03/14/1821AA2gd6eo.png',
                   name: '51Testing',
                   info: '软件测试内容聚集',
-                  url: 'http://www.51testing.com/html/index.html',
+                  url: 'http://www.51testing.com/html/index.ejs',
                 },
               ],
             },
@@ -3441,7 +3441,7 @@ export default {
                   pic: 'http://www.pmdaniu.com/uploads/201608/09/13/4134SBiDezYy.png',
                   name: '个推',
                   info: 'app消息推送',
-                  url: 'http://www.getui.com/cn/index.html',
+                  url: 'http://www.getui.com/cn/index.ejs',
                 },
                 {
                   pic: 'http://www.pmdaniu.com/uploads/201608/09/13/4220Dd2E7YnC.png',

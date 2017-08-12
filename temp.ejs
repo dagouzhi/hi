@@ -3,8 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>工具箱</title>
-  <link rel="stylesheet" href="index.css" />
+  <title><%= htmlWebpackPlugin.options.title %></title>
+  <% for (var css in htmlWebpackPlugin.files.css) { %>
+  <link href="<%=htmlWebpackPlugin.files.css[css] %>" rel="stylesheet">
+  <% } %>
   <script type='text/javascript'>
     var _vds = _vds || [];
     window._vds = _vds;
@@ -29,10 +31,9 @@
   </script>
 </head>
 <body>
-
-<div id="root"></div>
-
-<script src="index.js"></script>
-
+<div id="root">{{html}}</div>
+<% for (var chunk in htmlWebpackPlugin.files.chunks) { %>
+<script type="text/javascript" src="<%=htmlWebpackPlugin.files.chunks[chunk].entry %>"></script>
+<% } %>
 </body>
 </html>

@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": true,
   "scripts": {
     "pm2Start": "pm2 start process.json  --no-daemon",
