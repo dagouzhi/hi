@@ -1,15 +1,15 @@
-import React, { createElement } from 'react';
-import { match, RouterContext, createMemoryHistory } from 'dva/router';
-import { renderToString } from 'react-dom/server';
-import { Provider } from 'react-redux';
-// import { app, routes } from '../../../src/index';
-import '../../../dist/index';
+const createElement = require('react').createElement;
+const match = require('dva/router').match;
+const RouterContext = require('dva/router').RouterContext;
+const createMemoryHistory = require('dva/router').createMemoryHistory;
+const renderToString = require('react-dom/server').renderToString;
+require('../../../../dist/index');
 
 const app = global.__APP__;
 const routes = global.__ROUTER__;
 const ReactApp = app.start(null);
 
-export default (ctx) => {
+module.exports = (ctx) => {
   return new Promise((resolve, reject) => {
     match({
       routes,
@@ -31,16 +31,4 @@ export default (ctx) => {
       // ctx.status(404).send('Not found')
     });
   });
-}
-
-const styles = {};
-
-class GTest extends React.Component {
-  render() {
-    return (
-      <div className="GFooter-wrap">
-        test
-      </div>
-    );
-  }
 }

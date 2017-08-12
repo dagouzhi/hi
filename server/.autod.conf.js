@@ -21,7 +21,7 @@ module.exports = {
   ],
   exclude: [
     './test/fixtures',
-    './dist',
+    './SSR',
   ],
 };
 
