@@ -32,7 +32,7 @@ console.log('------------------------------------------');
 
 export default {
   "entry": [
-    "src/es6.js",
+    "src/index.js",
   ],
   // "hash": true,
   "define": {
