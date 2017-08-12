@@ -1,4 +1,5 @@
 import dva from 'dva';
+import W from 'global/window';
 import router from './router';
 import { browserHistory, createMemoryHistory } from 'dva/router';
 
@@ -36,9 +37,13 @@ app.router(router);
 try {
   if (window) {
     app.start('#root');
+  } else {
+    W.__APP__ = app;
+    W.__ROUTER__ = router;
   }
 } catch (e) {
-
+  W.__APP__ = app;
+  W.__ROUTER__ = router;
 }
 
 export default { app, router };
