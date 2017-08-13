@@ -12,14 +12,14 @@ const ReactApp = app.start(null);
 module.exports = (ctx) => {
   return new Promise((resolve, reject) => {
     match({
-      routes,
+      routes: routes(createMemoryHistory()),
       location: ctx.url,
     }, function(err, redirectLocation, renderProps) {
       if (err) {
         reject(`Internal Server Error ${err}`);
       }
       if (redirectLocation) {
-        ctx.redirect(302, redirectLocation.pathname + redirectLocation.search);
+        console.log(302, redirectLocation.pathname + redirectLocation.search);
       }
       if (renderProps) {
         // const html = renderToString(createApp.start()({ renderProps }));
@@ -29,6 +29,6 @@ module.exports = (ctx) => {
       const html = renderToString(createElement(ReactApp)) || '';
       resolve({ url: ctx.url, html: html, initialState: JSON.stringify({}) })
       // ctx.status(404).send('Not found')
-    });
+    })
   });
 }
