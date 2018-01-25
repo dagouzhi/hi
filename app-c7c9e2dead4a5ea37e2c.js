@@ -793,7 +793,7 @@ webpackJsonp([231608221292675],{
 	  addPagesArray: function addPagesArray(newPages) {
 	    pages = newPages;
 	    if (true) {
-	      if (true) pathPrefix = ("/hi");
+	      if (false) pathPrefix = __PATH_PREFIX__;
 	    }
 	    findPage = (0, _findPage2.default)(newPages, pathPrefix);
 	  },
@@ -1381,8 +1381,8 @@ webpackJsonp([231608221292675],{
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
 	var pathPrefix = "/";
-	if (true) {
-	  pathPrefix = ("/hi") + "/";
+	if (false) {
+	  pathPrefix = __PATH_PREFIX__ + "/";
 	}
 	
 	if ("serviceWorker" in navigator) {
