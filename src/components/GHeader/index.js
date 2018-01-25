@@ -15,6 +15,7 @@ export default class GHeader extends Component {
         <div className={'GHeader-r'} />
         <div className={'GHeader-center'}>
           <div className={'searchWrap'}>
+            YunLe.AI
             <Search
               placeholder="搜索..."
               style={{ width: 348, height: 34 }}
