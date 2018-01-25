@@ -53,7 +53,7 @@ class Home extends React.Component {
     window.open(url);
   };
   render() {
-    const items = Tools['pm'] || [];
+    const items = Tools['designer'] || [];
     return (
       <div className={`PmPage`}>
         <div className={`PmPage-body`}>

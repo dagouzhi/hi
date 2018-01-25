@@ -1,7 +1,7 @@
 module.exports = {
-	pathPrefix: '/gatsby-dva-antd/',
+	pathPrefix: '/hi/',
 	siteMetadata: {
-		title: 'gatsby-dva-antd',
+		title: 'hi',
 	},
 	plugins: [
 		'gatsby-plugin-react-helmet',

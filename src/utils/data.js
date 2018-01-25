@@ -2,7 +2,7 @@ export default {
 	nav: [
 		{
 			pic: 'http://wulihub.pmdaniu.com/uploads/201704/25/15/0437qEtW6rUP.png',
-			url: '/pm',
+			url: '/',
 			name: '产品',
 		},
 		{
@@ -31,7 +31,7 @@ export default {
 			name: '程序员',
 		},
 	],
-		tools: {
+	tools: {
 		pm: [
 			{
 				title: '产品常用',
