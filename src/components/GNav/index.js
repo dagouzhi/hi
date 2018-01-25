@@ -15,7 +15,7 @@ export default class GNav extends Component {
             <div className={'group-container'}>
               <Link className={classNames('GNav-link', this.props.path === url ? 'on' : null)} to={url}>
                 <div className={'group-image'}>
-                  <img alt="login" src={pic} />
+                  {/*<img alt="login" src={pic} />*/}
                 </div>
                 {name}
               </Link>
