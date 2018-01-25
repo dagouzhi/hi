@@ -693,7 +693,7 @@ webpackJsonp([231608221292675],{
 	  addPagesArray: function addPagesArray(newPages) {
 	    pages = newPages;
 	    if (true) {
-	      if (true) pathPrefix = ("/gatsby-dva-antd");
+	      if (true) pathPrefix = ("/hi");
 	    }
 	    findPage = (0, _findPage2.default)(newPages, pathPrefix);
 	  },
@@ -1282,7 +1282,7 @@ webpackJsonp([231608221292675],{
 	
 	var pathPrefix = "/";
 	if (true) {
-	  pathPrefix = ("/gatsby-dva-antd") + "/";
+	  pathPrefix = ("/hi") + "/";
 	}
 	
 	if ("serviceWorker" in navigator) {
@@ -8831,4 +8831,4 @@ webpackJsonp([231608221292675],{
 /***/ })
 
 });
-//# sourceMappingURL=app-7dd2d55d23c6f0ed8e5f.js.map
+//# sourceMappingURL=app-e4163f05e2d859977192.js.map
