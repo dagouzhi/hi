@@ -41,6 +41,12 @@ export default {
 						info: 'Prototype',
 						list: [
 							{
+								pic: 'https://coding.net/favicon.ico',
+								name: 'Coding',
+								info: '团队协作｜项目管理',
+								url: 'https://coding.net/register?key=6768226d-f154-4b14-b30c-d66563469ece',
+							},
+							{
 								pic: 'https://d3g1p8ush40lh4.cloudfront.net/Images/icon.ico',
 								name: 'Axure',
 								info: '原型与交互｜论坛',
@@ -863,6 +869,12 @@ export default {
 			},
 		],
 			designer: [
+				{
+					pic: 'https://coding.net/favicon.ico',
+					name: 'Coding',
+					info: '团队协作｜项目管理',
+					url: 'https://coding.net/register?key=6768226d-f154-4b14-b30c-d66563469ece',
+				},
 			{
 				title: '灵感酷站',
 				list: [
@@ -1500,6 +1512,12 @@ export default {
 			{
 				title: '常用工具',
 				list: [
+					{
+						pic: 'https://coding.net/favicon.ico',
+						name: 'Coding',
+						info: '团队协作｜项目管理',
+						url: 'https://coding.net/register?key=6768226d-f154-4b14-b30c-d66563469ece',
+					},
 					{
 						name: 'H5在线制作',
 						info: 'HTML5',
@@ -2189,6 +2207,12 @@ export default {
 				title: '常用工具',
 				list: [
 					{
+						pic: 'https://coding.net/favicon.ico',
+						name: 'Coding',
+						info: '团队协作｜项目管理',
+						url: 'https://coding.net/register?key=6768226d-f154-4b14-b30c-d66563469ece',
+					},
+					{
 						name: '广告案例',
 						info: 'Ad-Case',
 						list: [
@@ -2458,6 +2482,12 @@ export default {
 				title: '资讯与社区',
 				list: [
 					{
+						pic: 'https://coding.net/favicon.ico',
+						name: 'Coding',
+						info: '团队协作｜项目管理',
+						url: 'https://coding.net/register?key=6768226d-f154-4b14-b30c-d66563469ece',
+					},
+					{
 						name: '广告与营销',
 						info: 'AdMarket',
 						list: [
@@ -2583,6 +2613,12 @@ export default {
 				title: '技能学习',
 				list: [
 					{
+						pic: 'https://coding.net/favicon.ico',
+						name: 'Coding',
+						info: '团队协作｜项目管理',
+						url: 'https://coding.net/register?key=6768226d-f154-4b14-b30c-d66563469ece',
+					},
+					{
 						name: '在线课堂',
 						info: 'Online-Course',
 						list: [
@@ -2613,6 +2649,12 @@ export default {
 			{
 				title: '常用工具',
 				list: [
+					{
+						pic: 'https://coding.net/favicon.ico',
+						name: 'Coding',
+						info: '团队协作｜项目管理',
+						url: 'https://coding.net/register?key=6768226d-f154-4b14-b30c-d66563469ece',
+					},
 					{
 						name: '云测平台',
 						info: 'Cloud-Testing',
@@ -2948,6 +2990,12 @@ export default {
 			{
 				title: '语法手册',
 				list: [
+					{
+						pic: 'https://coding.net/favicon.ico',
+						name: 'Coding',
+						info: '团队协作｜项目管理',
+						url: 'https://coding.net/register?key=6768226d-f154-4b14-b30c-d66563469ece',
+					},
 					{
 						name: 'web端开发',
 						info: 'Web',
