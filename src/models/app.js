@@ -14,10 +14,10 @@ export default {
     },
   },
   effects: {
-    *delayed({ payload: { timeout } }, { put }) {
-      yield delay(timeout)
-      yield put({ type: 'increment' })
-    },
+	  // *delayed({ payload: { timeout } }, { put }) {
+		 //  yield delay(timeout)
+		 //  yield put({ type: 'increment' })
+	  // },
   },
   subscriptions: {
     setup({ history, dispatch }) {
